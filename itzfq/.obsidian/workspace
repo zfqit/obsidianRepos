@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "102611c19314b7ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "e60e34efc1dea176",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 inbox/设计模式.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65f61c7876fbf956",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0d7afb8eebf6680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cdea06498078051",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6fce0d2b1557bca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6980fcc4c3ca356",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "98c37528f72443fc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75d88f998f620573",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d9c4e3d6f0648d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffaa26039941b04c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 inbox/设计模式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1dd362bed93dc21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 inbox/设计模式.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2922659bce356dd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 inbox/设计模式.md"
+              }
+            }
+          },
+          {
+            "id": "73b5f8171d7f403b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e60e34efc1dea176",
+  "lastOpenFiles": [
+    "00 inbox/设计模式.md",
+    "01 notes/Linux 服务/Jenkins安装和配置.md",
+    "00 inbox/().md",
+    "01 notes/数据结构与算法/Java数据结构和算法.md",
+    "01 notes/java/Java JUC.md",
+    "01 notes/spring mvc/Sprng MVC.md",
+    "01 notes/java/Java异常.md",
+    "01 notes/java/Java多线程Thread.md",
+    "img.zfqit.top/202205312104387.png.md",
+    "01 notes/mysql/Mysql数据库.md"
+  ]
+}

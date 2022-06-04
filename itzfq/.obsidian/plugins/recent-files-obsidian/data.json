@@ -1,0 +1,34 @@
+{
+  "recentFiles": [
+    {
+      "basename": "设计模式",
+      "path": "00 inbox/设计模式.md"
+    },
+    {
+      "basename": "Jenkins安装和配置",
+      "path": "01 notes/Linux 服务/Jenkins安装和配置.md"
+    },
+    {
+      "basename": "Java数据结构和算法",
+      "path": "01 notes/数据结构与算法/Java数据结构和算法.md"
+    },
+    {
+      "basename": "Java JUC",
+      "path": "01 notes/java/Java JUC.md"
+    },
+    {
+      "basename": "Sprng MVC",
+      "path": "01 notes/spring mvc/Sprng MVC.md"
+    },
+    {
+      "basename": "Java异常",
+      "path": "01 notes/java/Java异常.md"
+    },
+    {
+      "basename": "Java多线程Thread",
+      "path": "01 notes/java/Java多线程Thread.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
