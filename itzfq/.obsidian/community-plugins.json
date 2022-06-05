@@ -2,5 +2,7 @@
   "obsidian-image-auto-upload-plugin",
   "file-explorer-note-count",
   "obsidian-pandoc",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "obsidian-hider",
+  "obsidian-style-settings"
 ]
