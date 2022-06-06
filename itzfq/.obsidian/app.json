@@ -12,5 +12,6 @@
   "newFileFolderPath": "00 inbox",
   "attachmentFolderPath": "",
   "communityPluginSortOrder": "download",
-  "communityThemeSortOrder": "download"
+  "communityThemeSortOrder": "download",
+  "alwaysUpdateLinks": true
 }

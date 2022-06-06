@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 inbox/设计模式.md",
+            "file": "00 inbox/1. 设计模式简介.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 inbox/设计模式.md",
+                "file": "00 inbox/1. 设计模式简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 inbox/设计模式.md",
+                "file": "00 inbox/1. 设计模式简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 inbox/设计模式.md"
+                "file": "00 inbox/1. 设计模式简介.md"
               }
             }
           },
@@ -138,15 +138,15 @@
   },
   "active": "e60e34efc1dea176",
   "lastOpenFiles": [
-    "00 inbox/设计模式.md",
+    "00 inbox/1. 设计模式简介.md",
+    "00 inbox/2. 创建型设计模式.md",
+    "00 inbox/4.行为型设计模式.md",
+    "00 inbox/3. 结构型设计模式.md",
+    "00 inbox/未命名 2.md",
     "00 inbox/2022-06-05.md",
     "01 notes/spring/12. Spring整合MVC和多配置文件.md",
     "01 notes/spring/8. 自定义类型转换器.md",
     "01 notes/spring/6. 对象生命周期.md",
-    "01 notes/spring/4. 依赖注入和反转控制.md",
-    "01 notes/spring/1. 前沿概述.md",
-    "01 notes/spring/2. Spring快速入门.md",
-    "01 notes/spring/5. Spring创建复杂对象和创建对象次数.md",
-    "01 notes/spring/11. Spring 整合Mybatis.md"
+    "01 notes/spring/4. 依赖注入和反转控制.md"
   ]
 }
