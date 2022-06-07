@@ -4,5 +4,7 @@
   "obsidian-pandoc",
   "recent-files-obsidian",
   "obsidian-hider",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-git",
+  "code-block-copy"
 ]
