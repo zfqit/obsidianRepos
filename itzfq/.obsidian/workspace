@@ -7,8 +7,12 @@
         "id": "e60e34efc1dea176",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "00 inbox/UML.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 inbox/UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 inbox/UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 inbox/UML.md"
+              }
             }
           },
           {
@@ -132,13 +140,12 @@
   "lastOpenFiles": [
     "00 inbox/UML.md",
     "00 inbox/1. 设计模式简介.md",
-    "00 inbox/2022-06-07.md",
-    "00 inbox/1. 设计模式.md",
-    "00 inbox/4.行为型设计模式.md",
     "00 inbox/2. 创建型设计模式.md",
     "00 inbox/3. 结构型设计模式.md",
+    "00 inbox/4.行为型设计模式.md",
+    "00 inbox/2022-06-07.md",
+    "00 inbox/1. 设计模式.md",
     "00 inbox/未命名 2.md",
-    "00 inbox/2022-06-05.md",
-    "01 notes/spring/12. Spring整合MVC和多配置文件.md"
+    "00 inbox/2022-06-05.md"
   ]
 }
