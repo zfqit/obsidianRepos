@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e60e34efc1dea176",
+        "id": "5ab19c6529794a52",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -136,16 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e60e34efc1dea176",
+  "active": "5ab19c6529794a52",
   "lastOpenFiles": [
-    "00 inbox/1. 设计模式简介.md",
+    "01 notes/spring/10. Spring AOP 编程.md",
     "00 inbox/3. 结构型设计模式.md",
-    "00 inbox/2. 创建型设计模式.md",
     "00 inbox/4.行为型设计模式.md",
-    "00 inbox/UML.md",
-    "00 inbox/2022-06-07.md",
-    "00 inbox/1. 设计模式.md",
-    "00 inbox/未命名 2.md",
-    "00 inbox/2022-06-05.md"
+    "01 notes/spring/9. 后置Bean处理器 BeanPostProcessor.md",
+    "01 notes/spring/8. 自定义类型转换器.md",
+    "01 notes/spring/7. 配置文件产数化（properties）.md",
+    "01 notes/spring/6. 对象生命周期.md",
+    "01 notes/spring/5. Spring创建复杂对象和创建对象次数.md",
+    "01 notes/spring/4. 依赖注入和反转控制.md",
+    "01 notes/spring/3. Spring日志框架.md"
   ]
 }

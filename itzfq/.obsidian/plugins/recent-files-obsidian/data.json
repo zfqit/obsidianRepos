@@ -5,64 +5,72 @@
       "path": "00 inbox/3. 结构型设计模式.md"
     },
     {
-      "basename": "1. 设计模式简介",
-      "path": "00 inbox/1. 设计模式简介.md"
-    },
-    {
-      "basename": "2. 创建型设计模式",
-      "path": "00 inbox/2. 创建型设计模式.md"
+      "basename": "10. Spring AOP 编程",
+      "path": "01 notes/spring/10. Spring AOP 编程.md"
     },
     {
       "basename": "4.行为型设计模式",
       "path": "00 inbox/4.行为型设计模式.md"
     },
     {
-      "basename": "UML",
-      "path": "00 inbox/UML.md"
-    },
-    {
-      "basename": "12. Spring整合MVC和多配置文件",
-      "path": "01 notes/spring/12. Spring整合MVC和多配置文件.md"
+      "basename": "9. 后置Bean处理器 BeanPostProcessor",
+      "path": "01 notes/spring/9. 后置Bean处理器 BeanPostProcessor.md"
     },
     {
       "basename": "8. 自定义类型转换器",
       "path": "01 notes/spring/8. 自定义类型转换器.md"
     },
     {
+      "basename": "7. 配置文件产数化（properties）",
+      "path": "01 notes/spring/7. 配置文件产数化（properties）.md"
+    },
+    {
       "basename": "6. 对象生命周期",
       "path": "01 notes/spring/6. 对象生命周期.md"
-    },
-    {
-      "basename": "4. 依赖注入和反转控制",
-      "path": "01 notes/spring/4. 依赖注入和反转控制.md"
-    },
-    {
-      "basename": "1. 前沿概述",
-      "path": "01 notes/spring/1. 前沿概述.md"
-    },
-    {
-      "basename": "2. Spring快速入门",
-      "path": "01 notes/spring/2. Spring快速入门.md"
     },
     {
       "basename": "5. Spring创建复杂对象和创建对象次数",
       "path": "01 notes/spring/5. Spring创建复杂对象和创建对象次数.md"
     },
     {
-      "basename": "11. Spring 整合Mybatis",
-      "path": "01 notes/spring/11. Spring 整合Mybatis.md"
+      "basename": "4. 依赖注入和反转控制",
+      "path": "01 notes/spring/4. 依赖注入和反转控制.md"
     },
     {
-      "basename": "9. 后置Bean处理器 BeanPostProcessor",
-      "path": "01 notes/spring/9. 后置Bean处理器 BeanPostProcessor.md"
+      "basename": "3. Spring日志框架",
+      "path": "01 notes/spring/3. Spring日志框架.md"
     },
     {
-      "basename": "7. 配置文件产数化（properties）",
-      "path": "01 notes/spring/7. 配置文件产数化（properties）.md"
+      "basename": "2. Spring快速入门",
+      "path": "01 notes/spring/2. Spring快速入门.md"
     },
     {
       "basename": "13. Spring注解编程",
       "path": "01 notes/spring/13. Spring注解编程.md"
+    },
+    {
+      "basename": "12. Spring整合MVC和多配置文件",
+      "path": "01 notes/spring/12. Spring整合MVC和多配置文件.md"
+    },
+    {
+      "basename": "11. Spring 整合Mybatis",
+      "path": "01 notes/spring/11. Spring 整合Mybatis.md"
+    },
+    {
+      "basename": "2. 创建型设计模式",
+      "path": "00 inbox/2. 创建型设计模式.md"
+    },
+    {
+      "basename": "1. 设计模式简介",
+      "path": "00 inbox/1. 设计模式简介.md"
+    },
+    {
+      "basename": "UML",
+      "path": "00 inbox/UML.md"
+    },
+    {
+      "basename": "1. 前沿概述",
+      "path": "01 notes/spring/1. 前沿概述.md"
     },
     {
       "basename": "Shiro",
