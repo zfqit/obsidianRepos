@@ -138,9 +138,9 @@
   },
   "active": "5ab19c6529794a52",
   "lastOpenFiles": [
-    "01 notes/spring/10. Spring AOP 编程.md",
-    "00 inbox/3. 结构型设计模式.md",
     "00 inbox/4.行为型设计模式.md",
+    "00 inbox/3. 结构型设计模式.md",
+    "01 notes/spring/10. Spring AOP 编程.md",
     "01 notes/spring/9. 后置Bean处理器 BeanPostProcessor.md",
     "01 notes/spring/8. 自定义类型转换器.md",
     "01 notes/spring/7. 配置文件产数化（properties）.md",

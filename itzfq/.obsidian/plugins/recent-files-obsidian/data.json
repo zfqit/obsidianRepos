@@ -5,12 +5,12 @@
       "path": "00 inbox/3. 结构型设计模式.md"
     },
     {
-      "basename": "10. Spring AOP 编程",
-      "path": "01 notes/spring/10. Spring AOP 编程.md"
-    },
-    {
       "basename": "4.行为型设计模式",
       "path": "00 inbox/4.行为型设计模式.md"
+    },
+    {
+      "basename": "10. Spring AOP 编程",
+      "path": "01 notes/spring/10. Spring AOP 编程.md"
     },
     {
       "basename": "9. 后置Bean处理器 BeanPostProcessor",
