@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "4.行为型设计模式",
-      "path": "00 inbox/4.行为型设计模式.md"
+      "basename": "Spring Security",
+      "path": "00 inbox/Spring Security.md"
     },
     {
       "basename": "3. 结构型设计模式",
       "path": "00 inbox/3. 结构型设计模式.md"
+    },
+    {
+      "basename": "4.行为型设计模式",
+      "path": "00 inbox/4.行为型设计模式.md"
     },
     {
       "basename": "2. 创建型设计模式",
@@ -110,5 +114,6 @@
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

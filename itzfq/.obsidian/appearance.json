@@ -1,6 +1,7 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
-  "translucency": false
+  "translucency": false,
+  "accentColor": ""
 }

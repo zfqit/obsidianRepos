@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "102611c19314b7ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "52e9212da9f0410b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b832e7fe5f9a8e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 inbox/Spring Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65f61c7876fbf956",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0d7afb8eebf6680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cdea06498078051",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6fce0d2b1557bca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6980fcc4c3ca356",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "98c37528f72443fc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236
+  },
+  "right": {
+    "id": "75d88f998f620573",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d9c4e3d6f0648d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffaa26039941b04c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 inbox/Spring Security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1dd362bed93dc21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 inbox/Spring Security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2922659bce356dd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 inbox/Spring Security.md"
+              }
+            }
+          },
+          {
+            "id": "73b5f8171d7f403b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "7b832e7fe5f9a8e1",
+  "lastOpenFiles": [
+    "00 inbox/3. 结构型设计模式.md",
+    "00 inbox/4.行为型设计模式.md",
+    "00 inbox/2. 创建型设计模式.md",
+    "00 inbox/1. 设计模式简介.md",
+    "00 inbox/UML.md",
+    "00 inbox/Spring Security.md",
+    "01 notes/spring/10. Spring AOP 编程.md",
+    "01 notes/spring/9. 后置Bean处理器 BeanPostProcessor.md",
+    "01 notes/spring/8. 自定义类型转换器.md",
+    "01 notes/spring/7. 配置文件产数化（properties）.md"
+  ]
+}
