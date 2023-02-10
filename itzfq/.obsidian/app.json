@@ -13,5 +13,7 @@
   "attachmentFolderPath": "",
   "communityPluginSortOrder": "download",
   "communityThemeSortOrder": "download",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "livePreview": true
 }
