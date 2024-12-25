@@ -4,23 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "cc10b46247bf42d3",
+        "id": "8e63307685ab6acd",
         "type": "tabs",
         "children": [
           {
-            "id": "e4747afad04dee13",
+            "id": "506543439d5a4355",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 inbox/Spring Security.md",
+                "file": "00 inbox/穿搭.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "穿搭"
+            }
+          },
+          {
+            "id": "2ad3aeca2f4f29e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 inbox/穿搭.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "穿搭"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -40,7 +57,29 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "98c37528f72443fc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "0152da780b7877b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -55,30 +94,16 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "e6980fcc4c3ca356",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "98c37528f72443fc",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 236
+    "width": 271.5
   },
   "right": {
     "id": "75d88f998f620573",
@@ -89,45 +114,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffaa26039941b04c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "00 inbox/Spring Security.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a1dd362bed93dc21",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "00 inbox/Spring Security.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2922659bce356dd1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "00 inbox/Spring Security.md"
-              }
-            }
-          },
-          {
             "id": "73b5f8171d7f403b",
             "type": "leaf",
             "state": {
@@ -135,38 +121,116 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "be6fec08ce3aea87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 inbox/穿搭.md"
+              },
+              "icon": "lucide-list",
+              "title": "穿搭 的大纲"
+            }
+          },
+          {
+            "id": "caa2961a2c7efc12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 inbox/穿搭.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "穿搭 的出链列表"
+            }
+          },
+          {
+            "id": "169b2634061b7314",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 inbox/穿搭.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "穿搭 的反向链接列表"
+            }
+          },
+          {
+            "id": "a18ccb692d8c1541",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 202
+    "width": 202,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "markdown-importer:打开 Markdown 格式转换器": true,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "switcher:打开快速切换": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4747afad04dee13",
+  "active": "506543439d5a4355",
   "lastOpenFiles": [
-    "SpringSecurity.md",
-    "SpringSecurity.assets/image-20220118061756972.png.md",
-    "00 inbox/Spring Security.md",
     "00 inbox/4.行为型设计模式.md",
-    "00 inbox/未命名.md",
-    "00 inbox/2. 创建型设计模式.md",
+    "00 inbox/找到 Java 高级开发需要的技术.md",
+    "00 inbox/遗愿清单：一个临终关怀工作者的手记.md",
+    "00 inbox/小狗钱钱读书笔记.md",
+    "00 inbox/穿搭.md",
     "00 inbox/UML.md",
     "00 inbox/1. 设计模式简介.md",
-    "SpringSecurity.assets/image-20220110113408799.png.md",
-    "00 inbox/3. 结构型设计模式.md"
+    "00 inbox/未命名.md",
+    "SpringSecurity.md",
+    "00 inbox/Spring Security.md",
+    "00 inbox/Spring.md",
+    "00 inbox/Mybatis 源码分析.md",
+    "00 inbox/2. 创建型设计模式.md",
+    "01 notes/spring/1. 前沿概述.md",
+    "01 notes/java/Java JUC.md",
+    "01 notes/数据结构与算法/Java数据结构和算法.md",
+    "00 inbox/3. 结构型设计模式.md",
+    "01 notes/spring/8. 自定义类型转换器.md",
+    "未命名",
+    "00 inbox/JDK 类型注入.md",
+    "00 inbox/自控力.md",
+    "images/image-20210204133208037.png.md",
+    "01 notes/java/Java异常.md",
+    "01 notes/Linux 服务/Jenkins安装和配置.md",
+    "01 notes/mysql/Mysql数据库.md",
+    "01 notes/redis/redis.md",
+    "01 notes/shiro/Shiro.md",
+    "images",
+    "02 reading"
   ]
 }

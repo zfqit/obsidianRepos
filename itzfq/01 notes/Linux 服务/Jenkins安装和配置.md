@@ -1,12 +1,14 @@
 ## 前置条件
 
-* 安装JDK8
-* 安装 Maven
-* 安装Git
+- 安装 JDK8
+- 安装 Maven
+- 安装 Git
 
 ## Jenkins 安装
->  [Jenkins 官网安装稳定版](https://www.jenkins.io/download/)
-```shell 
+
+> [Jenkins 官网安装稳定版](https://www.jenkins.io/download/)
+
+```shell
 # 安装稳定版本 Debian 系统
 wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
 rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
@@ -24,53 +26,57 @@ yum install fontconfig java-11-openjdk
 yum install jenkins
 ```
 
-## 配置Jenkins
+## 配置 Jenkins
 
-* 初始化jenkins
+- 初始化 jenkins
+
 ```shell
 systemctl start jenkins
 # 然后访问 http::/ip:8080
 # 登录需要输入密码,跟着图形化界面操作
 ```
-* 安装插件
-	* `Maven Integration`
-	* `Pipeline Maven Integration`
-	* `Gitlab`
-	* `GitLab Authentication`
-	* `SSH`
-	* `Publish Over SSH`
-* 添加凭据 Manage Credentials（凭据管理）
-![](http://img.zfqit.top/img/202206031439783.png)
 
-* 配置SSH
-![](http://img.zfqit.top/img/202206031436050.png)
+- 安装插件
+  - `Maven Integration`
+  - `Pipeline Maven Integration`
+  - `Gitlab`
+  - `GitLab Authentication`
+  - `SSH`
+  - `Publish Over SSH`
+- 添加凭据 Manage Credentials（凭据管理）
+  ![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031439783.png)
 
-![](http://img.zfqit.top/img/202206031437730.png)
-![](http://img.zfqit.top/img/202206031437475.png)
-![](http://img.zfqit.top/img/202206031438842.png)
-* 配置maven
-![](http://img.zfqit.top/img/202206031442095.png)
+- 配置 SSH
+  ![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031436050.png)
 
-![](http://img.zfqit.top/img/202206031442133.png)
+![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031437730.png)
+![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031437475.png)
+![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031438842.png)
 
-* 配置Java
-![](http://img.zfqit.top/img/202206031443762.png)
+- 配置 maven
+  ![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031442095.png)
 
-* 配置Git
-![](http://img.zfqit.top/img/202206031443151.png)
+![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031442133.png)
 
-## 构建Jenkins
-* 配置Git
-![](http://img.zfqit.top/img/202206031448432.png)
-* 构建触发器
-![](http://img.zfqit.top/img/202206031449111.png)
-![](http://img.zfqit.top/img/202206031449682.png)
+- 配置 Java
+  ![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031443762.png)
 
-![](http://img.zfqit.top/img/202206031450213.png)
-![](http://img.zfqit.top/img/202206031451151.png)
+- 配置 Git
+  ![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031443151.png)
 
-* 构建环境
-![](http://img.zfqit.top/img/202206031452020.png)
+## 构建 Jenkins
+
+- 配置 Git
+  ![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031448432.png)
+- 构建触发器
+  ![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031449111.png)
+  ![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031449682.png)
+
+![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031450213.png)
+![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031451151.png)
+
+- 构建环境
+  ![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031452020.png)
 
 ```shell
 SERVER_NAME_1=jct-debug
@@ -80,20 +86,23 @@ echo "=========================>>>>>>>进入工作空间WORKSPACE，清除工作
 rm -rf $SERVER_NAME_1
 echo "=========================>>>>>>>清除工作空间中原项目的工作空间$SERVER_NAME_1 ......成功success"
 ```
-* Build
-设置 maven 打包
+
+- Build
+  设置 maven 打包
+
 ```shell
 clean package -Dmaven.test.skip=true
 ```
-![](http://img.zfqit.top/img/202206031453340.png)
 
-![](http://img.zfqit.top/img/202206031455312.png)
+![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031453340.png)
 
-![](http://img.zfqit.top/img/202206031455475.png)
+![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031455312.png)
+
+![](https://raw.githubusercontent.com/zfqit/images/main/img/202206031455475.png)
 
 ```shell
 
-#!/bin/bash 
+#!/bin/bash
 
 echo '开始maven 构建服务'
 
@@ -149,6 +158,5 @@ echo $! > /jct/jct/jct-admin.pid
 ```
 
 ## 参考文章
-> [小白学习gitlab+jenkins进行自动化构建(docker)之springboot项目](https://juejin.cn/post/7073478980099112996#heading-11)
-> [从零学习Jenkins部署SpringBoot项目](https://juejin.cn/post/7012971055182512135#heading-13)
 
+> [小白学习 gitlab+jenkins 进行自动化构建(docker)之 springboot 项目](https://juejin.cn/post/7073478980099112996#heading-11) > [从零学习 Jenkins 部署 SpringBoot 项目](https://juejin.cn/post/7012971055182512135#heading-13)

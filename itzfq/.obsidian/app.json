@@ -6,7 +6,7 @@
   "strictLineBreaks": true,
   "foldIndent": true,
   "lineWrap": true,
-  "vimMode": false,
+  "vimMode": true,
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "00 inbox",
@@ -15,5 +15,6 @@
   "communityThemeSortOrder": "download",
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
-  "livePreview": true
+  "livePreview": true,
+  "defaultViewMode": "source"
 }
