@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e63307685ab6acd",
+        "id": "f87128ec9c3629b9",
         "type": "tabs",
         "children": [
           {
-            "id": "2ad3aeca2f4f29e2",
+            "id": "51a475f4b9e7ef11",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -129,12 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 inbox/穿搭学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "穿搭学习 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -187,8 +186,8 @@
   },
   "active": "2cdea06498078051",
   "lastOpenFiles": [
-    "00 inbox/未命名.md",
     "00 inbox/穿搭学习.md",
+    "00 inbox/未命名.md",
     "未命名",
     "00 inbox/Spring.md",
     "00 inbox/Spring Security.md",
